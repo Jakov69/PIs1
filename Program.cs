@@ -10,3 +10,5 @@ namespace ConsoleApp3
         }
     }
 }
+
+// Samo dodajem komentar! -Lovre
